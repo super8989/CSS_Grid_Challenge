@@ -1,0 +1,14 @@
+{
+  "name": "css_grid_challenge",
+  "version": "1.0.0",
+  "description": "CSS Grid Challenge",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.css css/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
